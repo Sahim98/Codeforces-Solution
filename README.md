@@ -10,4 +10,6 @@ There are solutions for the following [codeforces](http://codeforces.com/) probl
 
 2.[1560C -C. Infinity Table](https://github.com/Sahim98/Codeforces-Solution/blob/main/1560C.cpp) ([problem site](https://codeforces.com/problemset/problem/1560/C))
 
-3.2.[1521A -C. Infinity Table](https://github.com/Sahim98/Codeforces-Solution/blob/main/1521A.cpp) ([problem site](https://codeforces.com/problemset/problem/1521/A))
+3.[1521A -A. Nastia and Nearly Good Numbers](https://github.com/Sahim98/Codeforces-Solution/blob/main/1521A.cpp) ([problem site](https://codeforces.com/problemset/problem/1521/A))
+
+4.3.2.[1557A -](https://github.com/Sahim98/Codeforces-Solution/blob/main/1557A.cpp) ([problem site](https://codeforces.com/problemset/problem/1557/A))
