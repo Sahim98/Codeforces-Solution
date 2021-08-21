@@ -14,4 +14,4 @@ There are solutions for the following [codeforces](http://codeforces.com/) probl
 
 4.[1557A -A. Ezzat and Two Subsequences](https://github.com/Sahim98/Codeforces-Solution/blob/main/1557A.cpp) ([problem site](https://codeforces.com/problemset/problem/1557/A))
 
-4.[1557B -B. Ezzat and Two Subsequences](https://github.com/Sahim98/Codeforces-Solution/blob/main/1557B.cpp) ([problem site](https://codeforces.com/problemset/problem/1557/B))
+4.[1557B -B. Moamen and k-subarrays](https://github.com/Sahim98/Codeforces-Solution/blob/main/1557B.cpp) ([problem site](https://codeforces.com/problemset/problem/1557/B))
