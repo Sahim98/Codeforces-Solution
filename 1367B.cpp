@@ -23,17 +23,17 @@ void solve()
 
     for ( i = 0; i < n; ++i)
     {
-        if(i%2 != a[i]%2)
-            for (int j = i+1; j < n; ++j)
-            {
-                if(j%2 != a[j]%2 && i%2 != j%2)
-                {
-                    swap(a[i],a[j]) ; 
-                    mn++;
-                    break ;
-                }
+       if(i%2 != a[i]%2)
+          for (int j = i+1; j < n; ++j)
+          {
+              if(j%2 != a[j]%2 && i%2 != j%2)
+              {
+                  swap(a[i],a[j]) ; 
+                  mn++;
+                  break ;
+              }
 
-            }
+          }
     }
 
     for ( i = 0; i < n; ++i)
@@ -46,8 +46,6 @@ void solve()
     }
 
     if(i==n)printf("%d\n", mn);
-
-
 }       
 
 
@@ -58,6 +56,4 @@ int main()
  scanf("%d",&t);
 
  while(t--) solve() ;
-
-
 }
