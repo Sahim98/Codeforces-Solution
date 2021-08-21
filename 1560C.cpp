@@ -54,14 +54,13 @@ void solve()
         if(inc != k)while(inc !=k && col > 1)inc++ ,col--;
 
         r1=to_string(row),c1=to_string(col);
-
+        
         cout << r1 << ' ' << c1 << endl ;  
     }
 }
 
 int main()
 {
-
     fast 
     int t = 1;
     cin >> t;
