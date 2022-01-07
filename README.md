@@ -16,4 +16,6 @@ There are solutions for the following [codeforces](http://codeforces.com/) probl
 
 5.[1557B -B. Moamen and k-subarrays](https://github.com/Sahim98/Codeforces-Solution/blob/main/1557B.cpp) ([problem site](https://codeforces.com/problemset/problem/1557/B))
 
-6.4.[1560B -B. Who's Opposite?](https://github.com/Sahim98/Codeforces-Solution/blob/main/1560B.cpp) ([problem site](https://codeforces.com/problemset/problem/1560/B))
+6.[1560B -B. Who's Opposite?](https://github.com/Sahim98/Codeforces-Solution/blob/main/1560B.cpp) ([problem site](https://codeforces.com/problemset/problem/1560/B))
+
+7.[115A -A. Party](https://github.com/Sahim98/Codeforces-Solution/blob/main/115A.cpp.cpp) ([problem site](https://codeforces.com/contest/115/problem/A))
